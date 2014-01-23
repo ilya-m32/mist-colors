@@ -1,0 +1,9 @@
+Mist-colors is a pack of themes for gtk2/gtk3 which are simple but cute. 
+Inspired by gnome-colors icon themes and original mist gtk theme.
+Based on Mist-Redmond: http://gnome-look.org/content/show.php?content=155580
+
+Themes are made for Xfce4 with xfwm (or without window decorator at all) but can be used anywhere.
+
+New versions can be taken from github: 
+
+WARNING! For gtk2 you'll have to install mist-engine.
